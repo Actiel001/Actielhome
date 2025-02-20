@@ -23,7 +23,7 @@ So actually, this is an actiel portal aka your homepage display
   <img src="https://i.imgur.com/NSC3tZT.png" width="600" alt="Gambar 3">
 </p>
 
-## 🔧 How to Install
+## 🛠 How to Install
 1. **Run these commands step by step:**  
    ```bash
    # Clone the repository and navigate into the project folder  
