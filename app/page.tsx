@@ -12,9 +12,10 @@ import { collectionData } from '@/data/collectionData';
 import '../style/styles.css';
 import Swal from "sweetalert2";
 export default function Home() {
-  const homeRef = useRef(null);
-  const aboutRef = useRef(null);
-  const collectionRef = useRef(null);
+  const homeRef = useRef<HTMLDivElement>(null!);
+const aboutRef = useRef<HTMLDivElement>(null!);
+const collectionRef = useRef<HTMLDivElement>(null!);
+
   const [darkMode, setDarkMode] = useState(false);
   const [isPopupOpen, setPopupOpen] = useState(false);
   const [message, setMessage] = useState("");
@@ -105,11 +106,12 @@ export default function Home() {
     localStorage.setItem('darkMode', darkMode.toString());
   }, [darkMode]);
 
-const scrollToSection = (ref: RefObject<HTMLDivElement>) => {
-  if (ref.current) {
-    ref.current.scrollIntoView({ behavior: 'smooth' });
-  }
-};
+  const scrollToSection = (ref: RefObject<HTMLDivElement>) => {
+    if (ref.current !== null) {
+      ref.current.scrollIntoView({ behavior: "smooth" });
+    }
+  };
+  
 
   return (
 <div className={`min-h-screen font-sans ${darkMode ? 'bg-[#141414] text-gray-200' : 'bg-gray-100 text-gray-900'}`}>
