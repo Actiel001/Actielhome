@@ -24,17 +24,21 @@ So actually, this is an actiel portal aka your homepage display
 </p>
 
 ## 🔧 How to Install
-1. **Clone the repository & navigate to the project folder**  
+1. **Run these commands step by step:**  
    ```bash
+   # Clone the repository and navigate into the project folder  
    git clone https://github.com/Actiel001/Actielhome.git && cd Actielhome  
-   # This command clones the repository from GitHub and navigates into the project folder
-   npm install react-toastify @fortawesome/react-fontawesome @fortawesome/free-brands-svg-icons react-icons @headlessui/react sweetalert2  
-# Installs all necessary packages for the project to function properly
-npm run dev  
-# Starts the project in development mode
-http://localhost:3000  
-# Open this link in your browser to view the running application
-#set up an online database with data names and file messages, or you can grab it from my repo.
+
+   # Install required dependencies  
+   npm install react-toastify @fortawesome/react-fontawesome @fortawesome/free-brands-svg-icons react-icons @headlessui/react sweetalert2
+   
+   #  set up an online database with data names and file messages, or you can grab it from my repo.
+   
+   # Run the project in development mode  
+   npm run dev  
+
+   # Open the project in your browser  
+   http://localhost:3000  
 
 
 
