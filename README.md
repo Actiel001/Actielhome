@@ -38,8 +38,14 @@ So actually, this is an actiel portal aka your homepage display
    npm run dev  
 
    # Open the project in your browser  
-   http://localhost:3000  
-    I don't know, but this is a screenshot of my leptop, even though it fits perfectly and I think it's perfect, I forgot that I was too focused on making the display by adjusting my leptop, that I didn't realize that my leptop was from ancient times which is no longer even sold in the market, so this is a correction for me, because it's not responsive, even I tried opening it on my old cellphone too, it's really messed up, so I don't know, I don't know when I will fix it, because my laptop is still using ancient Egyptian technology.😂😂😂😂😂
+   http://localhost:3000
+   
+    I don't know, but this is a screenshot of my leptop, even though it fits perfectly and I think it's perfect,
+    I forgot that I was too focused on making the display by adjusting my leptop,
+   that I didn't realize that my leptop was from ancient times which is no longer even sold in the market, so this is a correction for me,
+    because it's not responsive, even I tried opening it on my old cellphone too,
+   it's really messed up, so I don't know, I don't know when I will fix it,
+    because my laptop is still using ancient Egyptian technology.😂😂😂😂😂
 
 
 
