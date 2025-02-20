@@ -1,3 +1,55 @@
+# 🏠 Actiel Port
+
+Deskripsi singkat proyekmu. Jelaskan apa yang dilakukan proyek ini dan apa manfaatnya.
+
+## ✨ Fitur Utama
+- 🔥 Fitur 1 yang keren
+- 🚀 Fitur 2 yang cepat
+- 🎨 Tampilan UI yang menarik
+- 💡 Teknologi yang digunakan
+
+## 📸 Tampilan Proyek
+Berikut adalah beberapa tangkapan layar proyek ini:
+
+### 🖼️ Gambar 1
+<img src="https://i.imgur.com/contoh1.png" width="600" alt="Gambar 1">
+
+### 🖼️ Gambar 2
+<img src="https://i.imgur.com/contoh2.png" width="600" alt="Gambar 2">
+
+### 🖼️ Gambar 3
+<img src="https://i.imgur.com/contoh3.png" width="600" alt="Gambar 3">
+
+## 🔧 Cara Instalasi
+1. Clone repositori:
+   ```bash
+   git clone https://github.com/username/repository.git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
