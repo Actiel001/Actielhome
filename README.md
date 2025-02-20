@@ -27,8 +27,8 @@ So actually, this is an actiel portal aka your homepage display
 1. Clone repositori:
    ```bash
    git clone https://github.com/username/repository.git MIT License
- ```bash
-Copyright (c) 2025 [Nama Kamu]
+```
+Copyright (c) 2025 Actiel Universe
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -47,6 +47,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
+
 
 
 
