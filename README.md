@@ -8,17 +8,17 @@ So actually, this is an actiel portal aka your homepage display
 - 🕷 collection contains projects connected to my repo
 
 
-### Image 1
+### Image 1 Home
 <p align="center">
   <img src="https://i.imgur.com/NH8s1Kq.png" width="600" alt="Gambar 1">
 </p>
 
-### Image 2
+### Image 2 About
 <p align="center">
   <img src="https://i.imgur.com/y2FJZII.png" width="600" alt="Gambar 2">
 </p>
 
-### Image 3
+### Image 3 Collections
 <p align="center">
   <img src="https://i.imgur.com/NSC3tZT.png" width="600" alt="Gambar 3">
 </p>
@@ -47,7 +47,7 @@ So actually, this is an actiel portal aka your homepage display
     it's really messed up, so I don't know, I don't know when I will fix it,
     because my laptop is still using ancient Egyptian technology.😂😂😂😂😂
 
-    #🤝 Contribution
+    🤝 Contribution
     Contributions are very welcome! Please make a pull request or raise an issue 😊
 
    
