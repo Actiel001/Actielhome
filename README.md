@@ -12,13 +12,14 @@ Deskripsi singkat proyekmu. Jelaskan apa yang dilakukan proyek ini dan apa manfa
 Berikut adalah beberapa tangkapan layar proyek ini:
 
 ### 🖼️ Gambar 1
-<img src="https://i.imgur.com/NH8s1Kq.png" width="600" alt="Gambar 1">
+<img src="https://i.imgur.com/NH8s1Kq.png" width="600" alt="Gambar 1" style="display: block; margin: auto;">
 
 ### 🖼️ Gambar 2
-<img src="https://i.imgur.com/y2FJZII.png" width="600" alt="Gambar 2">
+<img src="https://i.imgur.com/y2FJZII.png" width="600" alt="Gambar 2" style="display: block; margin: auto;">
 
 ### 🖼️ Gambar 3
-<img src="https://i.imgur.com/NSC3tZT.png" width="600" alt="Gambar 3">
+<img src="https://i.imgur.com/NSC3tZT.png" width="600" alt="Gambar 3" style="display: block; margin: auto;">
+
 
 ## 🔧 Cara Instalasi
 1. Clone repositori:
