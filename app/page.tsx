@@ -4,11 +4,10 @@ import Image from 'next/image';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faXTwitter } from "@fortawesome/free-brands-svg-icons";
 import { FaInstagram, FaFacebookF, FaLinkedinIn, FaYoutube, FaDiscord, FaTiktok } from 'react-icons/fa';
-import { ToastContainer, toast } from 'react-toastify';
+import { ToastContainer  } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import { Switch } from '@headlessui/react';
 import { collectionData } from '@/data/collectionData';
-import ParticlesComponent from '../components/Particles';
 import '../style/styles.css';
 import Swal from "sweetalert2";
 export default function Home() {
@@ -113,7 +112,6 @@ export default function Home() {
 
   return (
 <div className={`min-h-screen font-sans ${darkMode ? 'bg-[#141414] text-gray-200' : 'bg-gray-100 text-gray-900'}`}>
-      <ParticlesComponent />
       <ToastContainer position="top-right" autoClose={3000} hideProgressBar />
       <nav
 className={`fixed top-0 left-0 w-full py-4 z-50 backdrop-blur-md ${
