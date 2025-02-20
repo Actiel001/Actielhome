@@ -24,9 +24,18 @@ So actually, this is an actiel portal aka your homepage display
 </p>
 
 ## 🔧 How to Install
-1. Clone repositori:
+1. **Clone the repository & navigate to the project folder**  
    ```bash
-   git clone https://github.com/username/repository.git MIT License
+   git clone https://github.com/Actiel001/Actielhome.git && cd Actielhome  
+   # This command clones the repository from GitHub and navigates into the project folder
+   npm install react-toastify @fortawesome/react-fontawesome @fortawesome/free-brands-svg-icons react-icons @headlessui/react sweetalert2  
+# Installs all necessary packages for the project to function properly
+npm run dev  
+# Starts the project in development mode
+http://localhost:3000  
+# Open this link in your browser to view the running application
+#set up an online database with data names and file messages, or you can grab it from my repo.
+
 
 
 
@@ -53,25 +62,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
