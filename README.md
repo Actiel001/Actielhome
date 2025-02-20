@@ -47,7 +47,7 @@ So actually, this is an actiel portal aka your homepage display
     it's really messed up, so I don't know, I don't know when I will fix it,
     because my laptop is still using ancient Egyptian technology.😂😂😂😂😂
 
-    🤝 Kontribusi
+    #🤝 Contribution
     Contributions are very welcome! Please make a pull request or raise an issue 😊
 
    
