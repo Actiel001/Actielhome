@@ -1,4 +1,5 @@
 'use client';
+import { RefObject } from 'react';
 import { useRef, useState, useEffect } from 'react';
 import Image from 'next/image';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -104,11 +105,11 @@ export default function Home() {
     localStorage.setItem('darkMode', darkMode.toString());
   }, [darkMode]);
 
-  const scrollToSection = (ref: any) => {
-    if (ref.current) {
-      ref.current.scrollIntoView({ behavior: 'smooth' });
-    }
-  };
+const scrollToSection = (ref: RefObject<HTMLDivElement>) => {
+  if (ref.current) {
+    ref.current.scrollIntoView({ behavior: 'smooth' });
+  }
+};
 
   return (
 <div className={`min-h-screen font-sans ${darkMode ? 'bg-[#141414] text-gray-200' : 'bg-gray-100 text-gray-900'}`}>
