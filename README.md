@@ -1,29 +1,29 @@
 # 🏠 Actiel Port
 
-Deskripsi singkat proyekmu. Jelaskan apa yang dilakukan proyek ini dan apa manfaatnya.
+So actually, this is an actiel portal aka your homepage display
 
-## ✨ Fitur Utama
-- 🔥 Fitur 1 yang keren
-- 🚀 Fitur 2 yang cepat
-- 🎨 Tampilan UI yang menarik
-- 💡 Teknologi yang digunakan
+## ☂ Key Features 
+- 🏘 home contains my profile and social media
+- 🤺 About contains my profile story
+- 🕷 collection contains projects connected to my repo
 
-### 🖼️ Gambar 1
+
+### Image 1
 <p align="center">
   <img src="https://i.imgur.com/NH8s1Kq.png" width="600" alt="Gambar 1">
 </p>
 
-### 🖼️ Gambar 2
+### Image 2
 <p align="center">
   <img src="https://i.imgur.com/y2FJZII.png" width="600" alt="Gambar 2">
 </p>
 
-### 🖼️ Gambar 3
+### Image 3
 <p align="center">
   <img src="https://i.imgur.com/NSC3tZT.png" width="600" alt="Gambar 3">
 </p>
 
-## 🔧 Cara Instalasi
+## 🔧 How to Install
 1. Clone repositori:
    ```bash
    git clone https://github.com/username/repository.git
